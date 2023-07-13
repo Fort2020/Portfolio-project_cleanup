@@ -7,7 +7,7 @@
 
 This HOME Page was designed to enable visitors to get easy access to all the links and pages without logining in or signing up. It's very simply to scroll down to see more contents without wasting much time before going into other pages, probably to see the images of our products, make online booking and get feedback. You can subscribe to any of the Blogpost, and or YouTube Channel.
 
-|  [Linkedin  ](https://www.linkedin.com/pulse/tent-rentals-portfolio-project-cleanup-ezenna-frank)|  Github  |  [FrankDavid Rentals Home](https://fort2020.my.canva.site/landing-page)  |  [Youtube  ](https://www.youtube.com/watch?v=VUP3gOGgSYk)|
+|  [Linkedin  ](https://www.linkedin.com/pulse/tent-rentals-portfolio-project-cleanup-ezenna-frank)|  [Github  ](https://github.com/Fort2020/Portfolio-project_cleanup/blob/master/README.md)|  [FrankDavid Rentals Home](https://fort2020.my.canva.site/landing-page)  |  [Youtube  ](https://www.youtube.com/watch?v=VUP3gOGgSYk)|
 
 ## Link to our deployed website: [Here](https://fort2020.my.canva.site/landing-page) OR see the image below 
 
@@ -32,9 +32,9 @@ Therefore, it simply required honest with proper management and customer's satis
 
 # LICENSE
 
-The FDR License (FDR)
+The FrankDavid Rentals License (FDR)
 
-Copyright (c) 2023 - FrankDavid
+Copyright (c) 2023 - FrankDavid Rentals
 
 Permission is hereby granted, Free of Charge (FoC) to any person obtaining a copy
 of this project, together with associated documentation files - mayhap the diagrams, 
